@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# I'm Sandeep, a Comp-sci student interested in Data 👋🏼:
+# I'm Sandeep, a Comp-sci student interested in Data:
 
 # 💻 Tech Stack:
 <div align="left">
