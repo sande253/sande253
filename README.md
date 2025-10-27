@@ -16,6 +16,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/SSIS-0078D7?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="ssis logo" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white&style=for-the-badge" height="30" alt="onnx logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" height="30" alt="powerbi logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=for-the-badge" height="30" alt="databricks logo" />
   <img src="https://img.shields.io/badge/DbVisualizer-0A8A0A?logoColor=white&style=for-the-badge" height="30" alt="dbvisualizer logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900&style=for-the-badge" height="30" alt="aws logo" />
