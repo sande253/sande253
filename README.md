@@ -4,6 +4,23 @@
 
 # 💻 Tech Stack:
 <div align="left">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge" height="30" alt="amazondynamodb logo"  />
+  <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white&style=for-the-badge" height="30" alt="dbt logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge" height="30" alt="snowflake logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white&style=for-the-badge" height="30" alt="pyspark logo" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="sql logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SSIS-0078D7?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="ssis logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/DbVisualizer-0A8A0A?logoColor=white&style=for-the-badge" height="30" alt="dbvisualizer logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900&style=for-the-badge" height="30" alt="aws logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
@@ -28,21 +45,4 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge" height="30" alt="amazondynamodb logo"  />
-  <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white&style=for-the-badge" height="30" alt="dbt logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge" height="30" alt="snowflake logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white&style=for-the-badge" height="30" alt="pyspark logo" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="sql logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SSIS-0078D7?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="ssis logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/DbVisualizer-0A8A0A?logoColor=white&style=for-the-badge" height="30" alt="dbvisualizer logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900&style=for-the-badge" height="30" alt="aws logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo" />
 </div>
